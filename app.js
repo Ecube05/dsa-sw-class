@@ -15,7 +15,7 @@ function countEvenOdd(numbers){
              odd++
         }
     }
-    console.log("There are",even,"even numbers");
+    console.log("There are many",even,"even numbers");
 console.log("There are",odd,"odd numbers"); 
 }
 
